@@ -1,8 +1,8 @@
 # PA2
 
-##What Drives the Price of a Car?##
+##What Drives the Price of a Car?
 
-##Used Car Price Model##
+##Used Car Price Model
 
 **Business Understanding:** The data task is to analyze a dataset of 426,000 used cars, characterized by features such as year, manufacturer, model, condition, cylinders, fuel, odometer, title_status, transmission, drive, size, type, and paint_color, to identify and quantify the attributes that most significantly influence the target variable price. By applying statistical modeling, feature selection, and other relevant techniques, the objective is to develop a predictive model that accurately estimates car prices based on these features. The resulting insights will provide actionable recommendations to a used car dealership, highlighting consumer-valued attributes to optimize pricing strategies and align with market demand.
 
